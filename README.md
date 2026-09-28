@@ -34,7 +34,7 @@ identity:
   role:      Dev Fullstack & DevOps
   location:  🇫🇷 Normandy, France
   focus:     modern backends · AI integration · scalable systems
-  loves:     Python · TypeScript · Docker · PostgreSQL
+  loves:     Java · Javascript · TypeScript · Docker · Database · Git
 ```
 
 ---
